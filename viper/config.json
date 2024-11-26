@@ -1,0 +1,12 @@
+{
+    "app" : {
+        "name": "Viper",
+        "version": "1.0",
+        "author": "Azmi"
+    },
+    "database" : {
+        "show_sql": true,
+        "host": "localhost",
+        "port": 3306
+    }
+}
